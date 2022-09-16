@@ -6,7 +6,7 @@
             "compileCommands": "",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "compilerPath": "usr/bin/clang++"
+            "compilerPath": "/usr/bin/clang++"
         }
     ],
     "version": 4
