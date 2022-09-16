@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/Users/user226805/Documents/TestFps-main/.vscode/compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "compilerPath": "/usr/bin/clang++"
+        }
+    ],
+    "version": 4
+}
