@@ -2,66 +2,66 @@
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFps.Build.cs",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFps.cpp",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFps.h",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFpsCharacter.cpp",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFpsCharacter.h",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFpsGameMode.cpp",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFpsGameMode.h",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFpsProjectile.cpp",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TestFpsProjectile.h",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TP_PickUpComponent.cpp",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TP_PickUpComponent.h",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TP_WeaponComponent.cpp",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     },
     {
         "file": "D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\Source\\TestFps\\TP_WeaponComponent.h",
         "command": "\"/usr/bin/clang++\" @\"D:\\Users\\ME\\Documents\\Unreal Projects\\TestFps\\.vscode\\compileCommands_Default\\TestFps.211.rsp\"",
-        "directory": "E:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+        "directory": ""
     }
 ]
