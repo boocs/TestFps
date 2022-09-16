@@ -6,7 +6,7 @@
             "compileCommands": "/Users/user226805/Documents/TestFps-main/.vscode/compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "compilerPath": "/usr/bin/clang++",
+            "compilerPath": "/usr/bin/clang++"/*,
             "includePath": [
                 "/Users/user226805/Documents/TestFps-main/Source/TestFps/Source", 
 "/Users/user226805/Documents/TestFps-main/Source/TestFps/too_many/New folder - Copy (1)",
@@ -309,7 +309,7 @@
 "/Users/user226805/Documents/TestFps-main/Source/TestFps/too_many/New folder - Copy (298)",
 "/Users/user226805/Documents/TestFps-main/Source/TestFps/too_many/New folder - Copy (299)",
 "/Users/user226805/Documents/TestFps-main/Source/TestFps/too_many/New folder - Copy (300)"
-            ]
+            ]*/
         }
     ],
     "version": 4
