@@ -3,7 +3,7 @@
         {
             "name": "Mac",
             "intelliSenseMode": "clang-x64",
-            "compileCommands": "",
+            "compileCommands": "/Users/user226805/Documents/TestFps-main/.vscode/compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17",
             "compilerPath": "/usr/bin/clang++"
