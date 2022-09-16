@@ -3,10 +3,6 @@
 		{
 			"name": "TestFps",
 			"path": "."
-		},
-		{
-			"name": "secondWorkspace",
-			"path": "./secondWorkspace"
 		}
 	],
 	"settings": {
